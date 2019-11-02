@@ -12,6 +12,11 @@ A calculator made using React.js.
 
 https://am4nzi-calculator.herokuapp.com
 
+## Preview
+
+![calculator](https://user-images.githubusercontent.com/45455994/68073706-25efc080-fd93-11e9-9aa6-00546908dcb1.png)
+
+
 ## Technology used
 
 HTML / JSX, CSS, JavaScript, Node.js, React, Webpack
