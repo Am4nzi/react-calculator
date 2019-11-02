@@ -8,6 +8,10 @@ A calculator made using React.js.
 -   It can add, subtract, multiply and divide.
 -   It remembers previous inputs, so it can perform complex calculations.
 
+## Demo
+
+https://am4nzi-calculator.herokuapp.com
+
 ## Technology used
 
 HTML / JSX, CSS, JavaScript, Node.js, React, Webpack
