@@ -1,13 +1,20 @@
+
+@import url('https://fonts.googleapis.com/css?family=Orbitron:700,900|Roboto:900i&display=swap');
+
+
+
 .input {
     display: flex;
-    height: 4em;
+    height: 2em;
     flex: 1;
     background-color: #000;
-    outline: 1px solid #888;
+    outline: 1px solid black;
     color: #fff;
     justify-content: flex-end;
     padding: 0.5em;
     font-weight: bold;
-    font-size: 1.4em;
-    align-items: center
+    font-size: 1.7em;
+    align-items: center;
+    font-family: Orbitron;
+    color: red;
 }

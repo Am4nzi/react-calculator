@@ -1,17 +1,29 @@
 .button {
-    display: flex;
-    height: 4em;
-    flex: 1;
-    justify-content: center;
-    align-items: center;
-    font-weight: lighter;
-    font-size: 1.4rem;
-    background-color: #e0e1e6;
-    color: #888;
-    outline: 1px solid #888;
+  display: flex;
+  height: 3.2em;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+  font-weight: lighter;
+  font-family: Roboto;
+  font-size: 1.8rem;
+  color: white;
+  outline: 1px solid #2c3830;
+  cursor: pointer;
+  background-color: #adb8b0;
+  box-shadow: 0 1rem 0px 0 #36423a, 0 -0.25rem 1.5rem #39463f inset,
+    0 0.75rem 0.5rem rgba(255, 255, 255, 0.4) inset,
+    0 0.25rem 0.5rem 0 #adb8b0 inset;
+    
 }
 
 .operator {
-    background-color: #fe9241;
-    color: #fff;
+  background-color: #fe9241;
+  color: #fff;
+
+  box-shadow: 0 1rem 0 0 #b24e17, 0 -0.25rem 1.5rem #b24e17 inset,
+    0 0.75rem 0.5rem rgba(255, 255, 255, 0.4) inset,
+    0 0.25rem 0.5rem 0 #eca65d inset;
 }
+
+

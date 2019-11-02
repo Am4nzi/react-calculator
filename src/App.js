@@ -84,8 +84,6 @@ class App extends Component {
       }
     }
 
-  
-
   render() {
     return (
       <div className="App">
@@ -118,9 +116,10 @@ class App extends Component {
             <Button handleClick={this.subtract}>-</Button>
           </div>
           <div className="row">
-            <ClearButton handleClear={this.clearInput} >Clear</ClearButton>
+            <ClearButton handleClear={this.clearInput} >CLEAR</ClearButton>
           </div>
         </div>
+        
       </div>
     );
   }
