@@ -14,7 +14,7 @@ https://am4nzi-calculator.herokuapp.com
 
 ## Preview
 
-![calculator](https://user-images.githubusercontent.com/45455994/68073706-25efc080-fd93-11e9-9aa6-00546908dcb1.png)
+![calculator](https://user-images.githubusercontent.com/45455994/68073740-9a2a6400-fd93-11e9-8b90-0a211d8e1f10.png)
 
 
 ## Technology used
